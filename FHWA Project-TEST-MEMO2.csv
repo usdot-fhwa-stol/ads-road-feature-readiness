@@ -1,0 +1,22 @@
+﻿"Physical Roadway Features That Support ADS Performance. Technical Memorandum #2, April 30, 2024.",,,,,,,
+,,,,,,,
+Roadway Scenario Key to ADS Performance,Relevant Roadway Element,,,,,,
+,Pavement Surface,Pavement Markings,Cross Section,Signals ,Signs,Lighting Systems,Structures
+Intersections,x,x,x,x,x,,
+Roundabouts,x,x,x,,x,,x
+Ramps/ Merges,x,x,x,,x,x,x
+At-Grade Rail Crossing,x,x,x,x,x,,x
+Tolling Stations,x,x,x,x,x,,x
+Work Zones,x,x,x,,x,x,
+Managed Lanes,x,x,x,,x,,
+Rural/Isolated Roadways ,,x,,,,,
+,,,,,,,
+Roadway Element,ADS Performance Impact,,,,,,
+,Presence,Location,Design, Condition,,,
+Pavement Surfaces,x,,,x,,,
+Pavement Markings,x,x,x,x,,,
+Cross Section,,,x,,,,
+Signals,x,x,,,,,
+Signs,x,x,,,,,
+Lighting,x,x,,,,,
+Bridges/Structures,,,x,,,,
